@@ -8,3 +8,4 @@ C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLo
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.exe
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.pdb
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmLogin.resources

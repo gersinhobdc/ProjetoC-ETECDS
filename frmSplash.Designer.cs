@@ -89,7 +89,7 @@ namespace ProjetoLojaABC
             this.MaximizeBox = false;
             this.Name = "frmSplash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "LojaABC - Splash";
+            this.Text = "Pizzaria Riviera - Splash";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

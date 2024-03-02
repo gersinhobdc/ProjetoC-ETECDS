@@ -9,3 +9,14 @@ C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLo
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.pdb
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSplash.resources
 C:\Users\Laboratorio-Info\source\repos\etecia\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\bin\Debug\ProjetoLojaABC.exe.config
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\bin\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\bin\Debug\ProjetoLojaABC.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\ProjetoC-ETECDS\obj\Debug\ProjetoLojaABC.pdb

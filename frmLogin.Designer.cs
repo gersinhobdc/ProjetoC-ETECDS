@@ -126,7 +126,7 @@ namespace ProjetoLojaABC
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "frmLogin";
-            this.Text = "LojaABC - Login";
+            this.Text = "Pizzaria Riviera- Login";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
